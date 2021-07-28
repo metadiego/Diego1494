@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Diego1494. Eventhough I majored in math, I do software. Im an x-Google SWE curretly working on some personal fun projects.
+- 👀 I’m interested in cryptocurrencies.
+- 🌱 I’m currently learning about React and Solidity development.
+- 💞️ I’m looking to collaborate on anything crypto related.
+- 📫 How to reach me: do1494@gmail.com
